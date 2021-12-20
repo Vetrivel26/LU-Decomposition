@@ -43,7 +43,7 @@ print(x)
 ```
 
 ## Output:
-![git log](vetri.png)
+![git log](vetri1.png)
 ![git log](vetri2.png)
 
 
